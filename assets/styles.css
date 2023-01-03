@@ -1,0 +1,25 @@
+.loop-1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    gap: 50px;
+}
+
+ h2 {
+   color: rgb(60, 60, 168);
+   letter-spacing: 3px;
+}
+
+p {
+   color: grey;
+   line-height: 25px;
+   width: 241px;
+   height: 40px;  
+}
+
+.superscript {
+    margin-top: 50px;
+    color: rgb(60, 60, 168);
+    font-size: 35px;
+}
